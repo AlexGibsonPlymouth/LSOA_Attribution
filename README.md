@@ -2,7 +2,7 @@
 
 This tool, written using R-Shiny and which can be run interactively via [https://alexgibsonplymouth.shinyapps.io/LSOA_Attribution/](https://alexgibsonplymouth.shinyapps.io/LSOA11_21Attribution/), uses open source data to attribute LSOA11-based data to LSOA21 geographies, specifically the August 2024 **ONS Postcode Directory** and the **2021 Census** estimate of the number of persons and households in each postcode as of March 2021. These counts are used to weight the attribution of 2011 LSOA-based data to 2021 LSOAs.
 
-The tool has been extensively tested and should be self-explanatory, but it essential that great care is taken to ensure the settings match the data being attributed - specifically (1) whether the attribution relates to Count, Percent, Proportion or Score data, and (2) whether the attribution is to be based on the persons or households. Use the tool with care and check your results!
+The tool has been extensively tested and should be self-explanatory, but it essential that great care is taken to ensure the settings match the data being attributed - specifically (1) whether the attribution relates to Count, Percent, Proportion or Score data, and (2) whether the attribution is to be based on the persons or households. **Use the tool with care and check your results!**
 
 This repository contains the R-Shiny script that runs on shinyapps (LSOA11_21Attribution.R), the datasets it calls upon (LSOA11_LSOA21PopLookups.csv, LSOA11_LSOA21HHLookups.csv & AttributionOrigin.csv), and the R script used to create those datasets (Linking2011and2021StatisticalGeographies.R). Two directories with additional information used by the R-Shiny script are also included. These files/directories can be downloaded and run on a local implementation of R if required, though it will be easier to use the shinyapps implementation noted above.
 
@@ -26,7 +26,7 @@ Where there is (rarely) a more complex relationship between 2011 and 2021 LSOAs 
 
 ### Warning
 
-It is important to remember that although the vast majority (94.1%) of 2021 LSOAs are unchanged since 2011, where changes have taken place it is because there have been significant population changes - e.g. large-scale housing developments. This obviously means that older data is likely to be of limited use simply because is describes populations which will, by definition, have changed substantially.
+It is important to remember that although the vast majority (94.1%) of 2021 LSOAs are unchanged since 2011, where changes have taken place it is because there have been significant population changes - e.g. large-scale housing developments. This obviously means that older data are likely to be of limited use simply because they describe populations which will, by definition, have changed substantially.
 
 Thus although contemporary data that is still being published using 2011 LSOAs (e.g. benefit data available via Stat-Explore) can be attributed to 2021 LSOAs with some confidence, older data (e.g. 2019 IMD scores which are actually based on 2016 data) are likely to be of limited value.
 
