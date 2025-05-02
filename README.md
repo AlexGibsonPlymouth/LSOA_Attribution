@@ -4,7 +4,7 @@ This tool, written using R-Shiny and which can be run interactively via https://
 
 The tool has been extensively tested and should be self-explanatory, but it essential that great care is taken to ensure the settings match the data being attributed - specifically (1) whether the attribution relates to Count, Percent, Proportion or Score data, and (2) whether the attribution is to be based on the persons or households. Use the tool with care and check your results!
 
-This repository contains the R script used to integrate the two datasets listed above (Linking2011and2021StatisticalGeographies.R) and the R-Shiny script that runs on shinyapps (LSOA11_21Attribution.R). These can be downloaded and run on a local implementation of R if reqired.
+This repository contains the R-Shiny script that runs on shinyapps (LSOA11_21Attribution.R), the datasets it calls upon (LSOA11_LSOA21PopLookups.csv, LSOA11_LSOA21HHLookups.csv & AttributionOrigin.csv), and the R script used to create those datasets (Linking2011and2021StatisticalGeographies.R). Two directories with additional information used by the R-Shiny script are also included. These files/directories can be downloaded and run on a local implementation of R if required, though it will be easier to use the shinyapps implementation noted above.
 
 **Note:** Results will differ (slightly!) from other methods, but this tool has been used whenever 2011 LSOA-based data has been attributed to 2021 LSOAs as part of the ESRC Coastal Classifications project. Also see https://alexgibsonplymouth.shinyapps.io/CESA_Beta/ (opens new tab)
 
