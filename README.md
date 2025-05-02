@@ -1,6 +1,6 @@
 ## Attribute LSOA11 Counts, Percents, Proportions or Scores to LSOA21 Geography
 
-This tool, written using R-Shiny and which can be run interactively via https://alexgibsonplymouth.shinyapps.io/LSOA_Attribution/, uses open source data to attribute LSOA11-based data to LSOA21 geographies, specifically the August 2024 **ONS Postcode Directory** and the **2021 Census** estimate of the number of persons and households in each postcode as of March 2021. These counts are used to weight the attribution of 2011 LSOA-based data to 2021 LSOAs.
+This tool, written using R-Shiny and which can be run interactively via [https://alexgibsonplymouth.shinyapps.io/LSOA_Attribution/](https://alexgibsonplymouth.shinyapps.io/LSOA11_21Attribution/), uses open source data to attribute LSOA11-based data to LSOA21 geographies, specifically the August 2024 **ONS Postcode Directory** and the **2021 Census** estimate of the number of persons and households in each postcode as of March 2021. These counts are used to weight the attribution of 2011 LSOA-based data to 2021 LSOAs.
 
 The tool has been extensively tested and should be self-explanatory, but it essential that great care is taken to ensure the settings match the data being attributed - specifically (1) whether the attribution relates to Count, Percent, Proportion or Score data, and (2) whether the attribution is to be based on the persons or households. Use the tool with care and check your results!
 
