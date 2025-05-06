@@ -10,9 +10,9 @@ This repository contains the R-Shiny script that runs on shinyapps (LSOA11_21Att
 
 ### Sources:
 
-**August 2024 ONS Postcode Directory**: This lists the 2011 and 2021 LSOAs within which all postcodes are located. Office for National Statistics licensed under the Open Government Licence v.3.0
+**[August 2024 ONS Postcode Directory](https://geoportal.statistics.gov.uk/datasets/265778cd85754b7e97f404a1c63aea04/about)**: This lists the 2011 and 2021 LSOAs within which all postcodes are located. Office for National Statistics licensed under the Open Government Licence v.3.0
 
-**Postcode resident and household estimates, England and Wales: Census 2021**: Estimates of usual residents for postcodes, postcode sectors and postcode districts and estimates of households for postcodes, Census 2021 data available via NOMIS under Open Government Licence v.3.0
+**[Postcode resident and household estimates, England and Wales: Census 2021](https://www.nomisweb.co.uk/sources/census_2021_pc)**: Estimates of usual residents for postcodes, postcode sectors and postcode districts and estimates of households for postcodes, Census 2021 data available via NOMIS under Open Government Licence v.3.0
 
 ### Method:
 
