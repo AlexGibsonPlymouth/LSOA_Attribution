@@ -1,0 +1,37 @@
+<h2>Attribute LSOA11 Counts, Percents, Proportions or Scores to LSOA21 Geography: Sources and Methods</h3>
+
+<p style = "font-size:115%;">This tool uses open source data to attribute LSOA11-based data to LSOA21 geographies, specifically the August 2024 ONS Postcode Directory and the ONS Census estimate of the number of persons and households in each postcode as of March 2021. These counts are used to weight the attribution of 2011 LSOA-based data to 2021 LSOAs.</p>
+
+<p style = "font-size:115%;">The tool has been extensively tested and should be self-explanatory, but it essential that great care is taken to ensure the settings match the data being attributed - specifically (1) whether the attribution relates to Count, Percent, Proportion or Score data, and (2) whether the attribution is to be based on the persons or households. <span style = "color: #ff0000">Use the tool with care and check your results!</span></p>
+
+<p style = "font-size:115%;"><span style = "color: #ff0000">Note:</span> Results may differ (slightly!) from other methods and should only be used if 'official' attributions to 2021 geographies are unavailable (see below for more details).</p>
+
+<h3>Sources:</h4>
+<p style = "font-size:115%;"><a href="https://geoportal.statistics.gov.uk/datasets/265778cd85754b7e97f404a1c63aea04/about" target="_blank">August 2024 ONS Postcode Directory:</a> This lists the 2011 and 2021 LSOAs within which all postcodes are located. Office for National Statistics licensed under the Open Government Licence v.3.0</p>
+
+<p style = "font-size:115%;"><a href="https://www.nomisweb.co.uk/sources/census_2021_pc" target="_blank">Postcode resident and household estimates, England and Wales: Census 2021:</a> Estimates of usual residents for postcodes, postcode sectors and postcode districts and estimates of households for postcodes, Census 2021 data available via NOMIS under Open Government Licence v.3.0</p>
+
+<h3>Method:</h4>
+
+<p style = "font-size:115%;">The underlying idea is that, where there is a mismatch between 2011 and 2021 LSOAs, we establish how many people (or households) are in each 2011/2021 overlap and these are converted to proportions. How these proportions are used then depends on whether we are dealing with count or score data (and percent and proportion data are converted to counts on the basis of the number of people or households in each LSOA and then treated as if count data - before being converted back to percents or proportions).</p>
+ 
+<ul>
+<li style = "font-size:115%; margin-bottom: 10px;  margin-left: -15px; margin-right: 45px; ">Where a 2011 LSOA is <span style = "color: #ff0000">split</span> into two (or more) 2021 LSOAs then any 2011 scores (e.g. 2019 IMD Scores) are attributed to all 2021 LSOA whereas any counts (e.g. of recipients of benefits) are split proportionately between the two 2021 LSOAs.</li>
+
+<li style = "font-size:115%; margin-bottom: 10px;  margin-left: -15px; margin-right: 45px; ">Where a number of 2011 LSOA <span style = "color: #ff0000">merge</span> to create a single 2021 LSOA any counts are simply added together but for scores the weighted average of 2011 LSOA scores is calculated and attributed to the 2021 LSOA.</li> 
+
+<li style = "font-size:115%; margin-bottom: 10px;  margin-left: -15px; margin-right: 45px; ">Where there is (rarely) a more <span style = "color: #ff0000">complex</span> relationship between 2011 and 2021 LSOAs then the attribution will reflect the splits and mergers that underlie the relationship between 2011 and 2021 LSOAs.</li>
+</ul>
+
+<p style = "font-size:115%;">It is important to recognise that the attribution uses 2021 Census counts of <span style = "color: #ff0000">all</span> persons or households so, even if score, percent, proportion or count data refer to a subset of people or households (e.g. children aged 0-15), proportionate splits are based on the relative size of the <span style = "color: #ff0000">total</span> population rather than on the relevant population subset. This may affect results. (Data are not available for population subsets at unit postcode level.)  For any given data (particularly composite 'scores' which may be based on a variety of population and/or household datasets) the user will need to decide whether attribution using total 'persons' or 'households' is most appropriate and the final attribution to 2021 LSOAs should be considered as a 'best available fit'.</p>
+
+<p style = "font-size:115%;">This this tool has been used whenever 2011 LSOA-based data has been attributed to 2021 LSOAs as part of the ESRC Coastal Classifications project - See <a href="https://alexgibsonplymouth.shinyapps.io/CESA_Beta/" target="_blank">https://alexgibsonplymouth.shinyapps.io/CESA_Beta/ (opens new tab)</a></p> 
+
+<p style = "font-size:115%;">The R scripts used to integrate the ONS Postcode Directory and 2021 Postcode Population and Household counts, as well as the R-Shiny script behind this interactive tool, are available at <a href="https://github.com/AlexGibsonPlymouth/LSOA_Attribution" target="_blank">https://github.com/AlexGibsonPlymouth/LSOA_Attribution</a>.</p>
+
+<h3><span style = "color: #ff0000">Warning</span></h4>
+<p style = "font-size:115%;"> It is important to remember that although the vast majority (94.1%) of 2021 LSOAs are unchanged since 2011, where changes have taken place it is because there have been significant population changes - e.g. large-scale housing developments. This obviously means that older data is likely to be of limited use simply because it describes populations which will, by definition, have changed substantially.</p>
+
+<p style = "font-size:115%;">Thus although contemporary data that is still being published using 2011 LSOAs (e.g. benefit data available via Stat-Explore) can be attributed to 2021 LSOAs with some confidence, older data (e.g. 2019 IMD scores which are actually based on 2016 data) are likely to be of limited value.</p>
+
+<p style = "font-size:115%;">To help contextualise the attributed data each 2021 output file includes a column stating whether the 2021 LSOA is unchanged since 2011 ('U') or is based on split ('S'), merged ('M') or more complex combinations of 2011 LSOAs ('X').</p>
