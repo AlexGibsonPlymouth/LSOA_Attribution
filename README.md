@@ -6,7 +6,7 @@ The tool has been extensively tested and should be self-explanatory, but it esse
 
 This repository contains the R-Shiny script that runs on shinyapps (LSOA11_21Attribution.R), the datasets it calls upon (LSOA11_LSOA21PopLookups.csv, LSOA11_LSOA21HHLookups.csv & AttributionOrigin.csv), and the R script used to create those datasets (Linking2011and2021StatisticalGeographies.R). Two directories with additional information used by the R-Shiny script are also included. These files/directories can be downloaded and run on a local implementation of R if required, though it will be easier to use the shinyapps implementation noted above.
 
-**Note:** Results will differ (slightly!) from other methods, but this tool has been used whenever 2011 LSOA-based data has been attributed to 2021 LSOAs as part of the ESRC Coastal Classifications project. Also see https://alexgibsonplymouth.shinyapps.io/CESA_Beta/ (opens new tab)
+**Note:** Results may differ (slightly!) from other methods and should only be used if 'official' attributions to 2021 geographies are unavailable (see below for more details).
 
 ### Sources:
 
@@ -23,6 +23,10 @@ The underlying idea is that, where there is a mismatch between 2011 and 2021 LSO
 -    Where a number of 2011 LSOA merge to create a single 2021 LSOA any counts are simply added together but for scores the weighted average of 2011 LSOA scores is calculated and attributed to the 2021 LSOA.
 
 -    Where there is (rarely) a more complex relationship between 2011 and 2021 LSOAs then the attribution will reflect the proportionate splits and mergers than underlie the relationship.
+
+It is important to recognise that the attribution uses 2021 Census counts of all persons or households so, even if score, percent, proportion or count data refer to a subset of people or households (e.g. children aged 0-15), proportionate splits are based on the relative size of the total population rather than on the relevant population subset. This may affect results. (Data are not available for population subsets at unit postcode level.) For any given data (particularly composite 'scores' which may be based on a variety of population and/or household datasets) the user will need to decide whether attribution using total 'persons' or 'households' is most appropriate and the final attribution to 2021 LSOAs should be considered as a 'best available fit'.
+
+This this tool has been used whenever 2011 LSOA-based data has been attributed to 2021 LSOAs as part of the ESRC Coastal Classifications project - See https://alexgibsonplymouth.shinyapps.io/CESA_Beta/ (opens new tab)
 
 ### Warning
 
