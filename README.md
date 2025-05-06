@@ -18,11 +18,11 @@ This repository contains the R-Shiny script that runs on shinyapps (LSOA11_21Att
 
 The underlying idea is that, where there is a mismatch between 2011 and 2021 LSOAs, we establish how many people (or households) are in each 2011/2021 overlap and these are converted to proportions. How these proportions are used then depends on whether we are dealing with count or score data (and percent and proportion data are converted to counts on the basis of the number of people or households in each LSOA and then treated as if count data - before being converted back to percents or proportions).
 
-  Where a 2011 LSOA is split into two (or more) 2021 LSOAs then any 2011 scores (e.g. 2019 IMD Scores) are attributed to all 2021 LSOA whereas any counts (e.g. of recipients of benefits) are split proportionately between the two 2021 LSOAs.
+    Where a 2011 LSOA is split into two (or more) 2021 LSOAs then any 2011 scores (e.g. 2019 IMD Scores) are attributed to all 2021 LSOA whereas any counts (e.g. of recipients of benefits) are split proportionately between the two 2021 LSOAs.
 
-  Where a number of 2011 LSOA merge to create a single 2021 LSOA any counts are simply added together but for scores the weighted average of 2011 LSOA scores is calculated and attributed to the 2021 LSOA.
+    Where a number of 2011 LSOA merge to create a single 2021 LSOA any counts are simply added together but for scores the weighted average of 2011 LSOA scores is calculated and attributed to the 2021 LSOA.
 
-  Where there is (rarely) a more complex relationship between 2011 and 2021 LSOAs then the attribution will reflect the proportionate splits and mergers than underlie the relationship.
+    Where there is (rarely) a more complex relationship between 2011 and 2021 LSOAs then the attribution will reflect the proportionate splits and mergers than underlie the relationship.
 
 ### Warning
 
