@@ -22,11 +22,11 @@ The underlying idea is that, where there is a mismatch between 2011 and 2021 LSO
 
 -    Where a number of 2011 LSOA merge to create a single 2021 LSOA any counts are simply added together but for scores the weighted average of 2011 LSOA scores is calculated and attributed to the 2021 LSOA.
 
--    Where there is (rarely) a more complex relationship between 2011 and 2021 LSOAs then the attribution will reflect the proportionate splits and mergers than underlie the relationship.
+-    Where there is (rarely) a more complex relationship between 2011 and 2021 LSOAs then the attribution will reflect the splits and mergers that underlie the relationship between the 2011 and 2021 LSOAs.
 
 It is important to recognise that the attribution uses 2021 Census counts of all persons or households so, even if score, percent, proportion or count data refer to a subset of people or households (e.g. children aged 0-15), proportionate splits are based on the relative size of the total population rather than on the relevant population subset. This may affect results. (Data are not available for population subsets at unit postcode level.) For any given data (particularly composite 'scores' which may be based on a variety of population and/or household datasets) the user will need to decide whether attribution using total 'persons' or 'households' is most appropriate and the final attribution to 2021 LSOAs should be considered as a 'best available fit'.
 
-This this tool has been used whenever 2011 LSOA-based data has been attributed to 2021 LSOAs as part of the ESRC Coastal Classifications project - See https://alexgibsonplymouth.shinyapps.io/CESA_Beta/ (opens new tab)
+This this tool has been used whenever 2011 LSOA-based data has been attributed to 2021 LSOAs as part of the ESRC Coastal Classifications project - See [https://alexgibsonplymouth.shinyapps.io/CESA_Beta/](https://alexgibsonplymouth.shinyapps.io/CESA_Beta/)
 
 ### Warning
 
