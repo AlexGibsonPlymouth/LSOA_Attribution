@@ -1,0 +1,332 @@
+LAD21CD,LAD21NM,owner_occupier,l4_qualified,UrbRur8,location_type
+E06000001,Hartlepool,0.588164871,0.248051844,Urban: Majority nearer to a major town or city,Urban
+E06000002,Middlesbrough,0.555308486,0.264413414,Urban: Majority nearer to a major town or city,Urban
+E06000003,Redcar and Cleveland,0.652195074,0.249265635,Intermediate urban: Majority nearer to a major town or city,Urban
+E06000004,Stockton-on-Tees,0.666177155,0.295221821,Urban: Majority nearer to a major town or city,Urban
+E06000005,Darlington,0.631408946,0.289613765,Urban: Majority nearer to a major town or city,Urban
+E06000006,Halton,0.612482351,0.239311964,Urban: Majority nearer to a major town or city,Urban
+E06000007,Warrington,0.694415604,0.329755267,Urban: Majority nearer to a major town or city,Urban
+E06000008,Blackburn with Darwen,0.60986982,0.268216354,Urban: Majority nearer to a major town or city,Urban
+E06000009,Blackpool,0.578043961,0.225004298,Urban: Majority nearer to a major town or city,Urban
+E06000010,Kingston upon Hull,0.487776575,0.217463063,Urban: Majority nearer to a major town or city,Urban
+E06000011,East Riding of Yorkshire,0.735417516,0.304889984,Intermediate rural: Majority nearer to a major town or city,Rural
+E06000012,North East Lincolnshire,0.643623344,0.215937517,Urban: Majority nearer to a major town or city,Urban
+E06000013,North Lincolnshire,0.677850056,0.239203539,Intermediate rural: Majority nearer to a major town or city,Rural
+E06000014,York,0.659415626,0.387888403,Urban: Majority nearer to a major town or city,Urban
+E06000015,Derby,0.59779656,0.296844973,Urban: Majority nearer to a major town or city,Urban
+E06000016,Leicester,0.471724181,0.267684716,Urban: Majority nearer to a major town or city,Urban
+E06000017,Rutland,0.72338386,0.379358601,Majority rural: Majority further from a major town or city,Rural
+E06000018,Nottingham,0.456338931,0.286290963,Urban: Majority nearer to a major town or city,Urban
+E06000019,Herefordshire,0.674647156,0.327238709,Majority rural: Majority further from a major town or city,Rural
+E06000020,Telford and Wrekin,0.607110182,0.260995608,Urban: Majority nearer to a major town or city,Urban
+E06000021,Stoke-on-Trent,0.571168478,0.218299085,Urban: Majority nearer to a major town or city,Urban
+E06000022,Bath and North East Somerset,0.662750789,0.39754854,Intermediate urban: Majority nearer to a major town or city,Urban
+E06000023,Bristol,0.548304616,0.42109882,Urban: Majority nearer to a major town or city,Urban
+E06000024,North Somerset,0.723322204,0.338746801,Intermediate urban: Majority nearer to a major town or city,Urban
+E06000025,South Gloucestershire,0.734312157,0.329588062,Urban: Majority nearer to a major town or city,Urban
+E06000026,Plymouth,0.588239916,0.275152774,Urban: Majority nearer to a major town or city,Urban
+E06000027,Torbay,0.650622301,0.253161528,Urban: Majority further from a major town or city,Urban
+E06000030,Swindon,0.649329244,0.279027518,Urban: Majority nearer to a major town or city,Urban
+E06000031,Peterborough,0.568523535,0.262309561,Urban: Majority nearer to a major town or city,Urban
+E06000032,Luton,0.544762411,0.298474794,Urban: Majority nearer to a major town or city,Urban
+E06000033,Southend-on-Sea,0.619396508,0.27205792,Urban: Majority nearer to a major town or city,Urban
+E06000034,Thurrock,0.639754734,0.261969889,Urban: Majority nearer to a major town or city,Urban
+E06000035,Medway,0.661848752,0.255888704,Urban: Majority nearer to a major town or city,Urban
+E06000036,Bracknell Forest,0.685003483,0.356018532,Urban: Majority nearer to a major town or city,Urban
+E06000037,West Berkshire,0.688814546,0.370028148,Intermediate rural: Majority nearer to a major town or city,Rural
+E06000038,Reading,0.517352954,0.404274133,Urban: Majority nearer to a major town or city,Urban
+E06000039,Slough,0.49547917,0.348285604,Urban: Majority nearer to a major town or city,Urban
+E06000040,Windsor and Maidenhead,0.667974135,0.44958965,Urban: Majority nearer to a major town or city,Urban
+E06000041,Wokingham,0.781103159,0.461912641,Urban: Majority nearer to a major town or city,Urban
+E06000042,Milton Keynes,0.608735632,0.358246861,Urban: Majority nearer to a major town or city,Urban
+E06000043,Brighton and Hove,0.522347243,0.445219593,Urban: Majority nearer to a major town or city,Urban
+E06000044,Portsmouth,0.531518774,0.299670415,Urban: Majority nearer to a major town or city,Urban
+E06000045,Southampton,0.487823953,0.316404721,Urban: Majority nearer to a major town or city,Urban
+E06000046,Isle of Wight,0.684353531,0.274137441,Intermediate rural: Majority further from a major town or city,Rural
+E06000047,County Durham,0.628349683,0.267350757,Intermediate rural: Majority nearer to a major town or city,Rural
+E06000049,Cheshire East,0.72871081,0.375706052,Urban: Majority nearer to a major town or city,Urban
+E06000050,Cheshire West and Chester,0.695444526,0.356811056,Intermediate urban: Majority nearer to a major town or city,Urban
+E06000051,Shropshire,0.694617385,0.325080993,Majority rural: Majority nearer to a major town or city,Rural
+E06000052,Cornwall,0.674185244,0.305576792,Majority rural: Majority further from a major town or city,Rural
+E06000053,Isles of Scilly,0.458598726,0.378612717,Majority rural: Majority further from a major town or city,Rural
+E06000054,Wiltshire,0.680269294,0.341675535,Intermediate rural: Majority further from a major town or city,Rural
+E06000055,Bedford,0.645657105,0.347094884,Intermediate urban: Majority nearer to a major town or city,Urban
+E06000056,Central Bedfordshire,0.729046416,0.332211236,Intermediate rural: Majority nearer to a major town or city,Rural
+E06000057,Northumberland,0.657416861,0.307436227,Intermediate rural: Majority nearer to a major town or city,Rural
+E06000058,"Bournemouth, Christchurch and Poole",0.635329782,0.320794604,Urban: Majority nearer to a major town or city,Urban
+E06000059,Dorset,0.713535389,0.314685836,Intermediate rural: Majority further from a major town or city,Rural
+E06000060,Buckinghamshire,0.712813228,0.409839985,Intermediate urban: Majority nearer to a major town or city,Urban
+E06000061,North Northamptonshire,0.662252634,0.267235387,Intermediate urban: Majority nearer to a major town or city,Urban
+E06000062,West Northamptonshire,0.663824512,0.317572052,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000008,Cambridge,0.45744397,0.55837775,Urban: Majority nearer to a major town or city,Urban
+E07000009,East Cambridgeshire,0.695427788,0.350095899,Majority rural: Majority further from a major town or city,Rural
+E07000010,Fenland,0.673456888,0.190399849,Intermediate urban: Majority further from a major town or city,Urban
+E07000011,Huntingdonshire,0.703355879,0.334497946,Majority rural: Majority nearer to a major town or city,Rural
+E07000012,South Cambridgeshire,0.714057556,0.478475323,Majority rural: Majority nearer to a major town or city,Rural
+E07000026,Allerdale,0.688779223,0.283867202,Majority rural: Majority further from a major town or city,Rural
+E07000027,Barrow-in-Furness,0.720272562,0.247537343,Urban: Majority further from a major town or city,Urban
+E07000028,Carlisle,0.680299232,0.278860996,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000029,Copeland,0.712429764,0.259659334,Majority rural: Majority further from a major town or city,Rural
+E07000030,Eden,0.715841222,0.325570923,Majority rural: Majority further from a major town or city,Rural
+E07000031,South Lakeland,0.724825314,0.38561698,Majority rural: Majority further from a major town or city,Rural
+E07000032,Amber Valley,0.725376264,0.288073482,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000033,Bolsover,0.663065056,0.217357192,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000034,Chesterfield,0.629065485,0.268045672,Urban: Majority nearer to a major town or city,Urban
+E07000035,Derbyshire Dales,0.729424155,0.392069835,Majority rural: Majority nearer to a major town or city,Rural
+E07000036,Erewash,0.704023046,0.258780887,Urban: Majority nearer to a major town or city,Urban
+E07000037,High Peak,0.716496615,0.355814599,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000038,North East Derbyshire,0.710999,0.275664329,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000039,South Derbyshire,0.753249337,0.318191228,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000040,East Devon,0.735790861,0.338443665,Majority rural: Majority nearer to a major town or city,Rural
+E07000041,Exeter,0.583315891,0.34682164,Urban: Majority nearer to a major town or city,Urban
+E07000042,Mid Devon,0.686584339,0.306844173,Majority rural: Majority nearer to a major town or city,Rural
+E07000043,North Devon,0.684221492,0.285397961,Majority rural: Majority further from a major town or city,Rural
+E07000044,South Hams,0.720579636,0.398532746,Majority rural: Majority further from a major town or city,Rural
+E07000045,Teignbridge,0.725871952,0.327619182,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000046,Torridge,0.704304429,0.261622655,Majority rural: Majority further from a major town or city,Rural
+E07000047,West Devon,0.716737852,0.340501199,Majority rural: Majority further from a major town or city,Rural
+E07000061,Eastbourne,0.602916027,0.298082153,Urban: Majority nearer to a major town or city,Urban
+E07000062,Hastings,0.570814071,0.285888306,Urban: Majority nearer to a major town or city,Urban
+E07000063,Lewes,0.720639062,0.348201197,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000064,Rother,0.735725822,0.298733158,Majority rural: Majority nearer to a major town or city,Rural
+E07000065,Wealden,0.781311341,0.325841015,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000066,Basildon,0.643945942,0.245797542,Urban: Majority nearer to a major town or city,Urban
+E07000067,Braintree,0.685804416,0.25815372,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000068,Brentwood,0.725667821,0.353884329,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000069,Castle Point,0.80430073,0.184741708,Urban: Majority nearer to a major town or city,Urban
+E07000070,Chelmsford,0.711227819,0.339021369,Urban: Majority nearer to a major town or city,Urban
+E07000071,Colchester,0.651072638,0.322376585,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000072,Epping Forest,0.702732922,0.324136488,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000073,Harlow,0.550624719,0.244370879,Urban: Majority nearer to a major town or city,Urban
+E07000074,Maldon,0.770071685,0.254023237,Majority rural: Majority nearer to a major town or city,Rural
+E07000075,Rochford,0.812160756,0.227619856,Urban: Majority nearer to a major town or city,Urban
+E07000076,Tendring,0.71947043,0.198662823,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000077,Uttlesford,0.723740462,0.366235497,Majority rural: Majority nearer to a major town or city,Rural
+E07000078,Cheltenham,0.643339194,0.431153237,Urban: Majority nearer to a major town or city,Urban
+E07000079,Cotswold,0.672611277,0.397955841,Majority rural: Majority nearer to a major town or city,Rural
+E07000080,Forest of Dean,0.734529919,0.287801005,Majority rural: Majority further from a major town or city,Rural
+E07000081,Gloucester,0.649911562,0.273941219,Urban: Majority nearer to a major town or city,Urban
+E07000082,Stroud,0.739069838,0.386705923,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000083,Tewkesbury,0.729935746,0.358672045,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000084,Basingstoke and Deane,0.666971101,0.352493542,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000085,East Hampshire,0.744076639,0.387238756,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000086,Eastleigh,0.729938163,0.331176247,Urban: Majority nearer to a major town or city,Urban
+E07000087,Fareham,0.792224347,0.333664453,Urban: Majority nearer to a major town or city,Urban
+E07000088,Gosport,0.648190423,0.24769755,Urban: Majority nearer to a major town or city,Urban
+E07000089,Hart,0.775773196,0.413522228,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000090,Havant,0.687902368,0.265026977,Urban: Majority nearer to a major town or city,Urban
+E07000091,New Forest,0.748062965,0.311810897,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000092,Rushmoor,0.622166247,0.298190946,Urban: Majority nearer to a major town or city,Urban
+E07000093,Test Valley,0.708580098,0.356892611,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000094,Winchester,0.669464158,0.449002387,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000095,Broxbourne,0.697038896,0.273033977,Urban: Majority nearer to a major town or city,Urban
+E07000096,Dacorum,0.645445657,0.377645823,Urban: Majority nearer to a major town or city,Urban
+E07000098,Hertsmere,0.653366759,0.396027427,Urban: Majority nearer to a major town or city,Urban
+E07000099,North Hertfordshire,0.659292815,0.415255103,Urban: Majority nearer to a major town or city,Urban
+E07000102,Three Rivers,0.716696511,0.426956255,Urban: Majority nearer to a major town or city,Urban
+E07000103,Watford,0.561810795,0.41075553,Urban: Majority nearer to a major town or city,Urban
+E07000105,Ashford,0.681447474,0.301107094,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000106,Canterbury,0.656806496,0.330601916,Urban: Majority further from a major town or city,Urban
+E07000107,Dartford,0.679242806,0.323726571,Urban: Majority nearer to a major town or city,Urban
+E07000108,Dover,0.669930762,0.269957349,Intermediate urban: Majority further from a major town or city,Urban
+E07000109,Gravesham,0.632801265,0.266953663,Urban: Majority nearer to a major town or city,Urban
+E07000110,Maidstone,0.692913718,0.299231711,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000111,Sevenoaks,0.734070553,0.373414904,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000112,Folkestone and Hythe,0.665577094,0.273799642,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000113,Swale,0.68327961,0.23697541,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000114,Thanet,0.61807074,0.263184799,Urban: Majority further from a major town or city,Urban
+E07000115,Tonbridge and Malling,0.72079219,0.325341622,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000116,Tunbridge Wells,0.661800386,0.411363636,Intermediate rural: Majority further from a major town or city,Rural
+E07000117,Burnley,0.600110356,0.243341002,Urban: Majority nearer to a major town or city,Urban
+E07000118,Chorley,0.728328081,0.338428333,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000119,Fylde,0.724139765,0.344679192,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000120,Hyndburn,0.633055476,0.251615066,Urban: Majority nearer to a major town or city,Urban
+E07000121,Lancaster,0.679482477,0.323166807,Intermediate urban: Majority further from a major town or city,Urban
+E07000122,Pendle,0.651578837,0.253715668,Urban: Majority nearer to a major town or city,Urban
+E07000123,Preston,0.591440603,0.317190528,Urban: Majority nearer to a major town or city,Urban
+E07000124,Ribble Valley,0.769843347,0.397497182,Majority rural: Majority nearer to a major town or city,Rural
+E07000125,Rossendale,0.681325873,0.306544503,Urban: Majority nearer to a major town or city,Urban
+E07000126,South Ribble,0.76816844,0.319515181,Urban: Majority nearer to a major town or city,Urban
+E07000127,West Lancashire,0.716357942,0.299597283,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000128,Wyre,0.741485611,0.282795095,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000129,Blaby,0.789688784,0.305341413,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000130,Charnwood,0.708450227,0.325826257,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000131,Harborough,0.777874004,0.377816183,Majority rural: Majority nearer to a major town or city,Rural
+E07000132,Hinckley and Bosworth,0.753104397,0.294192806,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000133,Melton,0.720410601,0.310832208,Intermediate rural: Majority further from a major town or city,Rural
+E07000134,North West Leicestershire,0.728598746,0.299634422,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000135,Oadby and Wigston,0.759396834,0.320334675,Urban: Majority nearer to a major town or city,Urban
+E07000136,Boston,0.601312747,0.190382745,Intermediate urban: Majority further from a major town or city,Urban
+E07000137,East Lindsey,0.684606356,0.215231679,Majority rural: Majority further from a major town or city,Rural
+E07000138,Lincoln,0.514115654,0.263509711,Urban: Majority nearer to a major town or city,Urban
+E07000139,North Kesteven,0.738316107,0.298709381,Majority rural: Majority nearer to a major town or city,Rural
+E07000140,South Holland,0.70650812,0.20084307,Majority rural: Majority further from a major town or city,Rural
+E07000141,South Kesteven,0.693334606,0.301271894,Intermediate urban: Majority further from a major town or city,Urban
+E07000142,West Lindsey,0.712008502,0.293122843,Majority rural: Majority nearer to a major town or city,Rural
+E07000143,Breckland,0.677529449,0.230857347,Intermediate rural: Majority further from a major town or city,Rural
+E07000144,Broadland,0.779674515,0.274374242,Majority rural: Majority nearer to a major town or city,Rural
+E07000145,Great Yarmouth,0.62069817,0.182436925,Intermediate urban: Majority further from a major town or city,Urban
+E07000146,King's Lynn and West Norfolk,0.674819163,0.233032306,Majority rural: Majority further from a major town or city,Rural
+E07000147,North Norfolk,0.693422358,0.262392731,Majority rural: Majority further from a major town or city,Rural
+E07000148,Norwich,0.426193394,0.341183485,Urban: Majority nearer to a major town or city,Urban
+E07000149,South Norfolk,0.743731774,0.320391745,Majority rural: Majority nearer to a major town or city,Rural
+E07000163,Craven,0.722965975,0.376211581,Majority rural: Majority further from a major town or city,Rural
+E07000164,Hambleton,0.698544189,0.365934451,Majority rural: Majority nearer to a major town or city,Rural
+E07000165,Harrogate,0.710337366,0.399445697,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000166,Richmondshire,0.649797088,0.328270244,Majority rural: Majority nearer to a major town or city,Rural
+E07000167,Ryedale,0.675568504,0.33034712,Majority rural: Majority further from a major town or city,Rural
+E07000168,Scarborough,0.644628746,0.275377266,Intermediate urban: Majority further from a major town or city,Urban
+E07000169,Selby,0.742163802,0.320747713,Majority rural: Majority nearer to a major town or city,Rural
+E07000170,Ashfield,0.67826741,0.215708771,Urban: Majority nearer to a major town or city,Urban
+E07000171,Bassetlaw,0.686585437,0.2551994,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000172,Broxtowe,0.715535245,0.341909897,Urban: Majority nearer to a major town or city,Urban
+E07000173,Gedling,0.743651918,0.318553153,Urban: Majority nearer to a major town or city,Urban
+E07000174,Mansfield,0.64480533,0.220716425,Urban: Majority nearer to a major town or city,Urban
+E07000175,Newark and Sherwood,0.698074291,0.290081202,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000176,Rushcliffe,0.767495941,0.452575136,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000177,Cherwell,0.669135278,0.35102766,Intermediate urban: Majority further from a major town or city,Urban
+E07000178,Oxford,0.467576668,0.480536579,Urban: Majority nearer to a major town or city,Urban
+E07000179,South Oxfordshire,0.720522952,0.435834753,Majority rural: Majority nearer to a major town or city,Rural
+E07000180,Vale of White Horse,0.700307831,0.440325192,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000181,West Oxfordshire,0.688605907,0.382831072,Majority rural: Majority further from a major town or city,Rural
+E07000187,Mendip,0.698810991,0.339569604,Majority rural: Majority further from a major town or city,Rural
+E07000188,Sedgemoor,0.692230632,0.260943718,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000189,South Somerset,0.690331332,0.296041332,Majority rural: Majority further from a major town or city,Rural
+E07000192,Cannock Chase,0.677766016,0.227309101,Urban: Majority nearer to a major town or city,Urban
+E07000193,East Staffordshire,0.675238337,0.286803041,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000194,Lichfield,0.742340565,0.336234141,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000195,Newcastle-under-Lyme,0.683245044,0.280453175,Urban: Majority nearer to a major town or city,Urban
+E07000196,South Staffordshire,0.753724062,0.293963929,Intermediate rural: Majority nearer to a major town or city,Rural
+E07000197,Stafford,0.708311822,0.350833957,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000198,Staffordshire Moorlands,0.786329831,0.283767238,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000199,Tamworth,0.677002584,0.218729915,Urban: Majority nearer to a major town or city,Urban
+E07000200,Babergh,0.717587065,0.294880908,Majority rural: Majority nearer to a major town or city,Rural
+E07000202,Ipswich,0.560354244,0.261955433,Urban: Majority nearer to a major town or city,Urban
+E07000203,Mid Suffolk,0.748782248,0.300295464,Majority rural: Majority nearer to a major town or city,Rural
+E07000207,Elmbridge,0.723676399,0.521052825,Urban: Majority nearer to a major town or city,Urban
+E07000208,Epsom and Ewell,0.751093516,0.443326575,Urban: Majority nearer to a major town or city,Urban
+E07000209,Guildford,0.67634505,0.440869675,Urban: Majority nearer to a major town or city,Urban
+E07000210,Mole Valley,0.742319395,0.43149615,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000211,Reigate and Banstead,0.727480827,0.402384104,Urban: Majority nearer to a major town or city,Urban
+E07000212,Runnymede,0.678770308,0.352641061,Urban: Majority nearer to a major town or city,Urban
+E07000213,Spelthorne,0.693680333,0.335836472,Urban: Majority nearer to a major town or city,Urban
+E07000214,Surrey Heath,0.750249944,0.392076873,Urban: Majority nearer to a major town or city,Urban
+E07000215,Tandridge,0.756281054,0.374382289,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000216,Waverley,0.729846705,0.46598157,Urban: Majority nearer to a major town or city,Urban
+E07000217,Woking,0.672546938,0.44722952,Urban: Majority nearer to a major town or city,Urban
+E07000218,North Warwickshire,0.713353395,0.248376563,Majority rural: Majority nearer to a major town or city,Rural
+E07000219,Nuneaton and Bedworth,0.688610056,0.244753055,Urban: Majority nearer to a major town or city,Urban
+E07000220,Rugby,0.689319975,0.348996637,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000221,Stratford-on-Avon,0.726220907,0.394667921,Majority rural: Majority nearer to a major town or city,Rural
+E07000222,Warwick,0.668343474,0.451797942,Urban: Majority nearer to a major town or city,Urban
+E07000223,Adur,0.726931137,0.279190981,Urban: Majority nearer to a major town or city,Urban
+E07000224,Arun,0.723992238,0.263980452,Urban: Majority nearer to a major town or city,Urban
+E07000225,Chichester,0.667553585,0.372380861,Majority rural: Majority nearer to a major town or city,Rural
+E07000226,Crawley,0.569701765,0.275449678,Urban: Majority nearer to a major town or city,Urban
+E07000227,Horsham,0.73973064,0.36974574,Majority rural: Majority nearer to a major town or city,Rural
+E07000228,Mid Sussex,0.739127689,0.386721918,Urban: Majority nearer to a major town or city,Urban
+E07000229,Worthing,0.681537406,0.317448974,Urban: Majority nearer to a major town or city,Urban
+E07000234,Bromsgrove,0.786448236,0.366185374,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000235,Malvern Hills,0.723002407,0.387678784,Majority rural: Majority nearer to a major town or city,Rural
+E07000236,Redditch,0.652289846,0.258530128,Urban: Majority nearer to a major town or city,Urban
+E07000237,Worcester,0.624597496,0.33726214,Urban: Majority nearer to a major town or city,Urban
+E07000238,Wychavon,0.712968129,0.330491252,Majority rural: Majority nearer to a major town or city,Rural
+E07000239,Wyre Forest,0.697749338,0.260835117,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000240,St Albans,0.71453516,0.530076062,Urban: Majority nearer to a major town or city,Urban
+E07000241,Welwyn Hatfield,0.580458775,0.37316893,Urban: Majority nearer to a major town or city,Urban
+E07000242,East Hertfordshire,0.708209725,0.385664289,Intermediate urban: Majority nearer to a major town or city,Urban
+E07000243,Stevenage,0.586733856,0.2961424,Urban: Majority nearer to a major town or city,Urban
+E07000244,East Suffolk,0.692785553,0.275581828,Intermediate rural: Majority further from a major town or city,Rural
+E07000245,West Suffolk,0.613750365,0.285125027,Intermediate rural: Majority further from a major town or city,Rural
+E07000246,Somerset West and Taunton,0.663199406,0.324688678,Intermediate rural: Majority further from a major town or city,Rural
+E08000001,Bolton,0.619378736,0.274135014,Urban: Majority nearer to a major town or city,Urban
+E08000002,Bury,0.672705868,0.323077618,Urban: Majority nearer to a major town or city,Urban
+E08000003,Manchester,0.380036511,0.376207308,Urban: Majority nearer to a major town or city,Urban
+E08000004,Oldham,0.60812755,0.246066244,Urban: Majority nearer to a major town or city,Urban
+E08000005,Rochdale,0.606492873,0.264294166,Urban: Majority nearer to a major town or city,Urban
+E08000006,Salford,0.475294486,0.335040544,Urban: Majority nearer to a major town or city,Urban
+E08000007,Stockport,0.722561746,0.375600079,Urban: Majority nearer to a major town or city,Urban
+E08000008,Tameside,0.611301456,0.244221784,Urban: Majority nearer to a major town or city,Urban
+E08000009,Trafford,0.6963924,0.429549129,Urban: Majority nearer to a major town or city,Urban
+E08000010,Wigan,0.668271549,0.258126344,Urban: Majority nearer to a major town or city,Urban
+E08000011,Knowsley,0.60280296,0.237958471,Urban: Majority nearer to a major town or city,Urban
+E08000012,Liverpool,0.474329007,0.308043114,Urban: Majority nearer to a major town or city,Urban
+E08000013,St. Helens,0.650207996,0.271652576,Urban: Majority nearer to a major town or city,Urban
+E08000014,Sefton,0.673063954,0.299042136,Urban: Majority nearer to a major town or city,Urban
+E08000015,Wirral,0.656197862,0.314564003,Urban: Majority nearer to a major town or city,Urban
+E08000016,Barnsley,0.628163957,0.234235948,Urban: Majority nearer to a major town or city,Urban
+E08000017,Doncaster,0.632649086,0.226881815,Urban: Majority nearer to a major town or city,Urban
+E08000018,Rotherham,0.640442041,0.231044704,Urban: Majority nearer to a major town or city,Urban
+E08000019,Sheffield,0.58612632,0.33357589,Urban: Majority nearer to a major town or city,Urban
+E08000021,Newcastle upon Tyne,0.497210844,0.346399678,Urban: Majority nearer to a major town or city,Urban
+E08000022,North Tyneside,0.641938233,0.328694202,Urban: Majority nearer to a major town or city,Urban
+E08000023,South Tyneside,0.570972513,0.26141048,Urban: Majority nearer to a major town or city,Urban
+E08000024,Sunderland,0.585020094,0.245639644,Urban: Majority nearer to a major town or city,Urban
+E08000025,Birmingham,0.535255139,0.298784991,Urban: Majority nearer to a major town or city,Urban
+E08000026,Coventry,0.581243477,0.305883925,Urban: Majority nearer to a major town or city,Urban
+E08000027,Dudley,0.668794549,0.24987428,Urban: Majority nearer to a major town or city,Urban
+E08000028,Sandwell,0.542319918,0.226728014,Urban: Majority nearer to a major town or city,Urban
+E08000029,Solihull,0.730286979,0.354422038,Urban: Majority nearer to a major town or city,Urban
+E08000030,Walsall,0.598310552,0.237126849,Urban: Majority nearer to a major town or city,Urban
+E08000031,Wolverhampton,0.554075004,0.262481949,Urban: Majority nearer to a major town or city,Urban
+E08000032,Bradford,0.622375123,0.274359899,Urban: Majority nearer to a major town or city,Urban
+E08000033,Calderdale,0.649951368,0.308574481,Urban: Majority nearer to a major town or city,Urban
+E08000034,Kirklees,0.658939597,0.298988662,Urban: Majority nearer to a major town or city,Urban
+E08000035,Leeds,0.575550714,0.346801971,Urban: Majority nearer to a major town or city,Urban
+E08000036,Wakefield,0.633846154,0.242737557,Urban: Majority nearer to a major town or city,Urban
+E08000037,Gateshead,0.583815548,0.279734893,Urban: Majority nearer to a major town or city,Urban
+E09000001,City of London,0.367521368,0.741818636,Urban: Majority nearer to a major town or city,Urban
+E09000002,Barking and Dagenham,0.441030013,0.332564638,Urban: Majority nearer to a major town or city,Urban
+E09000003,Barnet,0.53748061,0.490189233,Urban: Majority nearer to a major town or city,Urban
+E09000004,Bexley,0.699685205,0.315773617,Urban: Majority nearer to a major town or city,Urban
+E09000005,Brent,0.40331338,0.399784839,Urban: Majority nearer to a major town or city,Urban
+E09000006,Bromley,0.693479989,0.428189884,Urban: Majority nearer to a major town or city,Urban
+E09000007,Camden,0.304254081,0.572944595,Urban: Majority nearer to a major town or city,Urban
+E09000008,Croydon,0.561318627,0.410255254,Urban: Majority nearer to a major town or city,Urban
+E09000009,Ealing,0.482361831,0.4434457,Urban: Majority nearer to a major town or city,Urban
+E09000010,Enfield,0.534778905,0.36305418,Urban: Majority nearer to a major town or city,Urban
+E09000011,Greenwich,0.433123197,0.456700385,Urban: Majority nearer to a major town or city,Urban
+E09000012,Hackney,0.27083078,0.523822254,Urban: Majority nearer to a major town or city,Urban
+E09000013,Hammersmith and Fulham,0.33600837,0.575860463,Urban: Majority nearer to a major town or city,Urban
+E09000014,Haringey,0.388688007,0.482731481,Urban: Majority nearer to a major town or city,Urban
+E09000015,Harrow,0.599016086,0.449942754,Urban: Majority nearer to a major town or city,Urban
+E09000016,Havering,0.70455286,0.295241501,Urban: Majority nearer to a major town or city,Urban
+E09000017,Hillingdon,0.578642839,0.374833594,Urban: Majority nearer to a major town or city,Urban
+E09000018,Hounslow,0.478520993,0.415756378,Urban: Majority nearer to a major town or city,Urban
+E09000019,Islington,0.283120544,0.566232451,Urban: Majority nearer to a major town or city,Urban
+E09000020,Kensington and Chelsea,0.326939178,0.594902875,Urban: Majority nearer to a major town or city,Urban
+E09000021,Kingston upon Thames,0.615545194,0.513649181,Urban: Majority nearer to a major town or city,Urban
+E09000022,Lambeth,0.34828641,0.562615266,Urban: Majority nearer to a major town or city,Urban
+E09000023,Lewisham,0.434469292,0.49838703,Urban: Majority nearer to a major town or city,Urban
+E09000024,Merton,0.566979908,0.500153382,Urban: Majority nearer to a major town or city,Urban
+E09000025,Newham,0.331711498,0.402391246,Urban: Majority nearer to a major town or city,Urban
+E09000026,Redbridge,0.580476893,0.424333828,Urban: Majority nearer to a major town or city,Urban
+E09000027,Richmond upon Thames,0.630952233,0.603777096,Urban: Majority nearer to a major town or city,Urban
+E09000028,Southwark,0.312880294,0.548591373,Urban: Majority nearer to a major town or city,Urban
+E09000029,Sutton,0.654976441,0.39774353,Urban: Majority nearer to a major town or city,Urban
+E09000030,Tower Hamlets,0.257393873,0.503390896,Urban: Majority nearer to a major town or city,Urban
+E09000031,Waltham Forest,0.505884297,0.431673133,Urban: Majority nearer to a major town or city,Urban
+E09000032,Wandsworth,0.442773649,0.626360772,Urban: Majority nearer to a major town or city,Urban
+E09000033,Westminster,0.281144533,0.57676075,Urban: Majority nearer to a major town or city,Urban
+W06000001,Isle of Anglesey,0.684738174,0.3227641,Majority rural: Majority further from a major town or city,Rural
+W06000002,Gwynedd,0.657039429,0.345082068,Majority rural: Majority further from a major town or city,Rural
+W06000003,Conwy,0.689531723,0.324111164,Intermediate urban: Majority further from a major town or city,Urban
+W06000004,Denbighshire,0.664684927,0.3042784,Majority rural: Majority further from a major town or city,Rural
+W06000005,Flintshire,0.722242979,0.291656869,Intermediate urban: Majority nearer to a major town or city,Urban
+W06000006,Wrexham,0.628507295,0.290521791,Intermediate urban: Majority nearer to a major town or city,Urban
+W06000008,Ceredigion,0.688614807,0.352706423,Majority rural: Majority further from a major town or city,Rural
+W06000009,Pembrokeshire,0.67302251,0.311952102,Majority rural: Majority further from a major town or city,Rural
+W06000010,Carmarthenshire,0.706637801,0.312851318,Intermediate rural: Majority further from a major town or city,Rural
+W06000011,Swansea,0.625950344,0.327679533,Urban: Majority nearer to a major town or city,Urban
+W06000012,Neath Port Talbot,0.667083494,0.258401461,Intermediate urban: Majority nearer to a major town or city,Urban
+W06000013,Bridgend,0.707135985,0.300061934,Intermediate urban: Majority further from a major town or city,Urban
+W06000014,Vale of Glamorgan,0.720952497,0.372818895,Intermediate urban: Majority further from a major town or city,Urban
+W06000015,Cardiff,0.582805055,0.400012824,Urban: Majority nearer to a major town or city,Urban
+W06000016,Rhondda Cynon Taf,0.685143073,0.266966225,Urban: Majority further from a major town or city,Urban
+W06000018,Caerphilly,0.678381745,0.253035224,Urban: Majority nearer to a major town or city,Urban
+W06000019,Blaenau Gwent,0.601779829,0.215653562,Urban: Majority further from a major town or city,Urban
+W06000020,Torfaen,0.649536542,0.267969592,Urban: Majority nearer to a major town or city,Urban
+W06000021,Monmouthshire,0.722734049,0.393780595,Intermediate rural: Majority nearer to a major town or city,Rural
+W06000022,Newport,0.636342992,0.310336438,Urban: Majority nearer to a major town or city,Urban
+W06000023,Powys,0.67852514,0.31855584,Majority rural: Majority further from a major town or city,Rural
+W06000024,Merthyr Tydfil,0.626202296,0.249826961,Urban: Majority further from a major town or city,Urban
